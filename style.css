@@ -1,0 +1,46 @@
+h1{
+    color: darkblue;
+    font-family: sans-serif;
+    font-size: 40px;
+    text-align: center;
+}
+
+h2{
+    color: green;
+    font-family: sans-serif;
+    text-align: right;
+}
+
+p{
+    color: coral;
+    font-family: fantasy;
+}
+
+table{
+    font-family: Arial, Helvetica, sans-serif;
+    background: brown;
+    color: aliceblue;
+}
+
+tr.alt td{
+    background-color: darkgrey;
+}
+
+ul{
+    list-style-type: circle;
+}
+
+ol{
+    list-style-type: upper-roman;
+}
+
+#menu-bar a{
+    text-decoration: none;
+    background-color: aquamarine;
+}
+
+#menu-bar a:hover{
+    background-color: aqua;
+    font-family: serif;
+    padding: 5px;
+}
